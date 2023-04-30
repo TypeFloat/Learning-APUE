@@ -1,5 +1,5 @@
 /**
- * @file 3-2.c
+ * @file 2-2.c
  * @author TypeFloat (liuzekun_123@163.com)
  * @brief I/O效率的对比
  * @version 0.1
