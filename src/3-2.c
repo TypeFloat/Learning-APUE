@@ -1,6 +1,6 @@
 /**
  * @file 3-2.c
- * @author Return0 (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief I/O效率的对比
  * @version 0.1
  * @date 2022-11-13

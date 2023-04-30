@@ -1,6 +1,6 @@
 /**
  * @file 1-5.c
- * @author Return0 (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief 使用进程控制函数简单实现shell，该程序没有实现向指令传递参数的功能
  * @version 0.1
  * @date 2022-11-13

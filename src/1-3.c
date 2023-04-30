@@ -1,6 +1,6 @@
 /**
  * @file 1-3.c
- * @author Return0 (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief 标准I/O函数的使用示例
  * @version 0.1
  * @date 2022-11-13

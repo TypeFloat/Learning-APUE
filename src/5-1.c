@@ -1,6 +1,6 @@
 /**
  * @file 5-1.c
- * @author Return0 (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief 标准I/O的效率测试
  * @version 0.1
  * @date 2022-12-2

@@ -1,6 +1,6 @@
 /**
  * @file 4-2.c
- * @author Zekun Liu (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief fputc 和 fgetc 实现文件复制
  * @version 0.1
  * @date 2022-09-04

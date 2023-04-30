@@ -1,6 +1,6 @@
 /**
  * @file 1-7.c
- * @author Return0 (liuzekun_123@163.com)
+ * @author TypeFloat (liuzekun_123@163.com)
  * @brief uid和gid的获取
  * @version 0.1
  * @date 2022-11-13
